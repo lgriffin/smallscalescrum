@@ -1,37 +1,5 @@
 ## What is Small Scale Scrum
 
-You can use the [editor on GitHub](https://github.com/lgriffin/smallscalescrum/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The result of several years of research is Small Scale Scrum, a long-awaited and novel concept in agile “supporting planning, developing, and delivering production-quality software solutions.” Small, in this case, is a team size of 1-2, which is below the recommended team size of 3 that the Scrum Guide recommends. According to an extensive survey, this is something the industry, customers, and small development teams have been asking for, as this team size is more realistic for their needs. Organizations that engage in consultancy projects are particularly asking for ways to run scrum projects with one or two developers, due to the industry-wide acknowledgment of the approach’s efficiency. Given that scrum has amended its guidebook to include non-software industries, this approach could benefit many different sectors.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lgriffin/smallscalescrum/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# More content coming soon
