@@ -54,4 +54,4 @@ We authored a distillation of that thesis into a series of blogs on [opensource.
 
 # Building a Community
 
-We believe in Open Source and we believe in sharing and working together to build out Small Scale Scrum. To that end we have created a [Google Grouops](https://groups.google.com/forum/#!groupsettings/small-scale-scrum) and a [Twitter](https://twitter.com/smallscalescrum) Account will try and connect and build our community. Watch out for us at some conferences in 2020!
+We believe in Open Source and we believe in sharing and working together to build out Small Scale Scrum. To that end we have created a [Google Groups](https://groups.google.com/forum/#!groupsettings/small-scale-scrum) and a [Twitter](https://twitter.com/smallscalescrum) Account will try and connect and build our community. Watch out for us at some conferences in 2020!
