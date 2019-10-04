@@ -11,4 +11,13 @@ Scrum has become one of the most popular frameworks for bringing Agility to a te
 
 The result of several years of research is Small Scale Scrum, a long-awaited and novel concept in Agile “supporting planning, developing, and delivering production-quality software solutions.” Small, in this case, is a team size of 1-2, which is below the recommended team size that the Scrum Guide recommends.
 
-# More content coming soon
+# The Values
+
+
+# The Framework
+
+
+# The Modifications
+
+
+# Building a Community
