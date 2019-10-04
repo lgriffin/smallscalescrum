@@ -25,14 +25,14 @@ The result of several years of research is Small Scale Scrum, a long-awaited and
 
 * 2013-2016: Leigh worked with a number of students through his role as a mentor in companies. He supervised as an industry expert their final year capstone project of around 8 months. Each student tried to follow an Agile approach
 
-* 2017: We started to formalise an idea that Scrum could work for smaller teams and worked with [Agnieszka Gancarczyk](https://twitter.com/gancarczykaga) on an idea for her thesis to research how Scrum could work for small teams. At Agile Cambridge 2017, Leigh presented a talk with a colleague who has similar thoughts on [Quality, Performance and Success in 1-2 Person Teams: A Story of Small Scale Scrum](./resources/cambridge_2017.pdf). Here we crowd sourced the idea of Small Scale Scrum and we connected with a lot of like minded individuals
+* 2017: We started to formalise an idea that Scrum could work for smaller teams and worked with [Agnieszka Gancarczyk](https://twitter.com/gancarczykaga) on an idea for her thesis to research how Scrum could work for small teams. At [Agile Cambridge 2017](https://agilecambridge.net/2017/), Leigh presented a talk with a colleague who has similar thoughts on [Quality, Performance and Success in 1-2 Person Teams: A Story of Small Scale Scrum](./resources/cambridge_2017.pdf). Here we crowd sourced the idea of Small Scale Scrum and we connected with a lot of like minded individuals
 
 * 2018: Agnieszka completed her work and this became an Academic Thesis in 2018, which gave a lot of deep thought and background on why Scrum could work for Small teams
-Published V1.0 of it as a series of Blogs on OpenSource.com
+We authored a distillation of that thesis into a series of blogs on [opensource.com](https://opensource.com/) which were published as a downloadable [booklet](./resources/small_scale_scrum_v2.pdf) which we shared for free with the world
 
-* 2018 Blogs
-
-* 2019 Agile 2019
+* 2019 [Agile 2019](https://www.agilealliance.org/agile2019/) we published an [Experience Report](L.Griffin.A.Gancarczyk.Small-Scale-Scrum.pdf) on our journey towards discovering, researching and implemting Small Scale Scrum. At the conference itself [Arjay Hinek](https://twitter.com/arjayhinek) a fellow Agile Coach working with us on the topic of Small Scale Scrum, [presented](https://www.agilealliance.org/resources/sessions/small-scale-scrum/) our [work](./resources/agile_2019.pdf)
 
 
 # Building a Community
+
+We believe in Open Source and we believe in sharing and working together to build out Small Scale Scrum. To that end we have created a [Google Grouops](https://groups.google.com/forum/#!groupsettings/small-scale-scrum) and a [Twitter](https://twitter.com/smallscalescrum) Account will try and connect and build our community. Watch out for us at some conferences in 2020!
